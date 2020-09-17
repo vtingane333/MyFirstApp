@@ -20,5 +20,8 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"On New Branch",Toast.LENGTH_LONG).show();
 
         //Toast Added
+
+        //New Branch Added
+        Toast.makeText(this,"On New Branch",Toast.LENGTH_LONG).show();
     }
 }
