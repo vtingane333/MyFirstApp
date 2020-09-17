@@ -28,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"On New Branch",Toast.LENGTH_LONG).show();
 
         //New Comment
+
+	//Using Cmd comment added on Master Branch
     }
 }
